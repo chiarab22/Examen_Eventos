@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MIS TAREAS</string>
+    <string name="nombre_de_la_tarea">Nombre de la tarea</string>
+    <string name="nueva_tarea">Nueva Tarea</string>
+    <string name="borrar_tarea">Borrar Tarea</string>
+    <string name="pregunta">¿Qué estas pensando hacer?</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="tareas_de_hoy">Tareas de Hoy</string>
+    <string name="tareas_de_manana">Tareas de Mañana</string>
+    <string name="tareas_pendientes">Tareas Pendientes</string>
+    <string name="no_tienes_tareas_pendientes">No tienes tareas pendientes</string>
+    <string name="anadir_nueva_tarea">Añadir una nueva Tarea</string>
+    <string name="anadir_tarea">Añadir Tarea</string>
+</resources>
