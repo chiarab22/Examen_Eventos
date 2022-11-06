@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lista de Compra</string>
+    <string name="anadir">Añadir</string>
+    <string name="producto">Producto</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="precio">Precio</string>
+</resources>
